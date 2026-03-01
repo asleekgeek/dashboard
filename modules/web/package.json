@@ -65,7 +65,7 @@
     "d3-time-format": "4.1.0",
     "file-saver": "2.0.5",
     "js-base64": "3.7.7",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "jwt-decode": "4.0.0",
     "material-design-icons": "3.0.1",
     "ngx-cookie-service": "19.1.2",
@@ -127,8 +127,8 @@
     "jest-preset-angular": "14.5.3",
     "license-check-and-add": "4.0.5",
     "lint-staged": "15.5.2",
-    "lodash-es": "4.17.21",
-    "minimatch": "10.0.1",
+    "lodash-es": "4.17.23",
+    "minimatch": "10.2.3",
     "minimist": "1.2.8",
     "ng-extract-i18n-merge": "2.14.3",
     "node-gyp": "11.2.0",
@@ -145,7 +145,7 @@
     "stylelint-no-unsupported-browser-features": "8.0.4",
     "stylelint-order": "6.0.4",
     "stylelint-prettier": "5.0.3",
-    "tar": "7.4.3",
+    "tar": "7.5.8",
     "through2": "4.0.2",
     "ts-jest": "29.3.2",
     "ts-loader": "9.5.2",
@@ -153,7 +153,7 @@
     "typescript": "5.1.6",
     "wait-on": "8.0.3",
     "webpack-bundle-analyzer": "4.10.2",
-    "webpack-dev-server": "5.2.2"
+    "webpack-dev-server": "5.2.3"
   },
   "overrides": {
     "colors": "1.4.0"
